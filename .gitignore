@@ -205,3 +205,11 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.vscode/
+cloud_vars.db
+cloud_vars.db-shm
+cloud_vars.db-wal
+cloud_vars.db-wal.lock
+cloud_vars.db-journal
+cloud_vars.db-journal.lock
+cloud_vars.db-lock
