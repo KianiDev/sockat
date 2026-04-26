@@ -213,3 +213,6 @@ cloud_vars.db-wal.lock
 cloud_vars.db-journal
 cloud_vars.db-journal.lock
 cloud_vars.db-lock
+.vs/
+.venv/
+.idea/
